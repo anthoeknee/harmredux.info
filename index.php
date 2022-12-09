@@ -10,7 +10,7 @@
     </head>
     <body>
       <h1><a href="https://harmredux.info">harmredux.info</a> — collective of community contributed harm reduction resources!</h1>
-      <p>this website is a massive work in progress! if you have any desire to be a part of this wonderful little project please contact anthoeknee#2266 on discord!</p>
+      <p style="font-size:14px">this website is a massive work in progress! if you have any desire to be a part of this wonderful little project please contact anthoeknee#2266 on discord!</p>
       <br>
       <p>work in progress </p>
       <ul>
