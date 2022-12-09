@@ -9,14 +9,13 @@
         <title>harmredux.info — harm reductionists</title>
     </head>
     <body>
-      <h1><a href="https://harmredux.info">harmredux.info</a> — the best harm reduction you can for free</h1>
-      <h2>dying from dysentry bitch</h2>
+      <h1><a href="https://harmredux.info">harmredux.info</a> — collective of community contributed harm reduction resources!</h1>
+      <p>this website is a massive work in progress! if you have any desire to be a part of this wonderful little project please contact anthoeknee#2266 on discord!</p>
       <br>
       <p>work in progress </p>
       <ul>
           <?php include("inc/contact.html");?>
       </ul>
-    <h5>full source is available on github!
     <br><br><footer><?php
 
       if (filemtime(__FILE__) < filemtime("inc/contact.html")) {
