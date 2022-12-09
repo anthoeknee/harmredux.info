@@ -1,21 +1,29 @@
 body {
-    background-color: #000;
+    background-color: #543E9E;
     font-family: monospace;
-    color: #ccc;
+    color: #C7CEF2;
     max-width: 500px;
     margin: 0 auto;
 }
-h1,h2,h3,h4,h5,h6 {
-    color: #fff;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #C7CEF2;
     text-decoration: none;
 }
+
 a {
     text-decoration: none;
-    color: rgb(212, 109, 212);
+    color: #F7CE4F;
 }
+
 a:hover {
-    color: #aaa;
+    color: #FACB86;
 }
+
 .bold {
     font-weight: bold;
 }
