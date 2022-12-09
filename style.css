@@ -1,7 +1,7 @@
 body {
-    background-color: #543E9E;
+    background-color: #4E4A41;
     font-family: monospace;
-    color: #C7CEF2;
+    color: #3F7D8D;
     max-width: 500px;
     margin: 0 auto;
 }
@@ -11,17 +11,17 @@ h3,
 h4,
 h5,
 h6 {
-    color: #C7CEF2;
+    color: #3F7D8D;
     text-decoration: none;
 }
 
 a {
     text-decoration: none;
-    color: #F7CE4F;
+    color: #6F3186;
 }
 
 a:hover {
-    color: #FACB86;
+    color: #194045;
 }
 
 .bold {
