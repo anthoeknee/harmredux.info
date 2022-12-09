@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="theme-color" content="#404258">
         <meta name="apple-mobile-web-app-status-bar-style" content="#ffff00">
-        <link rel="stylesheet" href="style.css?v=1">
+        <link rel="stylesheet" href="style.css?v=<?php echo time(); ?>">
         <link rel="icon" type="image/png" href="">
         <title>harmredux.info — harm reductionists</title>
     </head>

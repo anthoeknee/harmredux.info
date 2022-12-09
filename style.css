@@ -1,7 +1,7 @@
 body {
-    background-color: #4E4A41;
+    background-color: #18141A;
     font-family: monospace;
-    color: #3F7D8D;
+    color: #D9C2F5;
     max-width: 500px;
     margin: 0 auto;
 }
@@ -11,7 +11,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: #3F7D8D;
+    color: #89BDBB;
     text-decoration: none;
 }
 
